@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShowOnPause
+  - WeaponsSlots
+  - ArmorSlots
+  - CharacterTab
+  - SkillsTab
+  - ObjectivesTab
+  - MapTab
+  - LeverPrompt
+  - Inventory
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - NPC
+  - Background
+  - Tiles
+  - OutOfBounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3582402315
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OutOfBounds
+    uniqueID: 601721285
+    locked: 0
+  - name: Tiles
+    uniqueID: 3187587147
+    locked: 0
+  - name: UI
+    uniqueID: 2399064143
+    locked: 0

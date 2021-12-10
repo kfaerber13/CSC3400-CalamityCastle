@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5d698cb8f8a86644d84c27fafae8ea25
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dark Magic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1189edf1061a35b41b6fd957aef0a4a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

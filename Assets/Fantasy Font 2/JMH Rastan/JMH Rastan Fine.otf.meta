@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bdfe408ce38f41942aa1d523c1f368e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - JMH Rastan Fine
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8c4a25af450574248964ed41d9d05e62, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

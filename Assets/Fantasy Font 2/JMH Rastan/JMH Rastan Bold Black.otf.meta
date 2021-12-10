@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a56c8e7fed988d347a453e9692e9a0c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - JMH Rastan Bold Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 111a2de9a048e0b4e90176b17745ac39, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
